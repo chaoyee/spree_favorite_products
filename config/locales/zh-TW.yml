@@ -1,0 +1,9 @@
+zh-TW:
+  spree:
+    favorite_products_settings: "我的最愛設定"
+    favorite_products_per_page: "每頁"
+    mark_as_favorite: "標註為我的最愛"
+    unmark_as_favorite: "取消標註為我的最愛"
+    no_results: "查無結果"
+    you_have_no_favorite_products_yet: "尚無我的最愛"
+    listing_favorite_products_users: "我的最愛產品列表"
