@@ -1,7 +1,7 @@
 zh-TW:
   spree:
     favorite_products_settings: "我的最愛設定"
-    favorite_products_per_page: "每頁"
+    favorite_products_per_page: "每頁我的最愛數目"
     favorite_products: "我的最愛產品"
     mark_as_favorite: "標註為我的最愛"
     unmark_as_favorite: "取消標註為我的最愛"

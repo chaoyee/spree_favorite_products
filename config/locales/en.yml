@@ -6,6 +6,7 @@ en:
   spree:
     favorite_products_settings: "Favorite Products Settings"
     favorite_products_per_page: "Per Page"
+    favorite_products: "Favorite Products"
     mark_as_favorite: "Mark as favorite"
     unmark_as_favorite: "Unmark as favorite"
 
